@@ -111,6 +111,10 @@ hr {
     padding: 30px;
 }
 
+#plan03 img {
+    width: 55px;
+}
+
 .info {
     display: flex;
     margin: 100px;
@@ -121,7 +125,10 @@ hr {
 }
 
 .info_text {
-    margin: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-top: -10px;
 }
 
 .email {
